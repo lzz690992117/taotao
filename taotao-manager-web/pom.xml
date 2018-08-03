@@ -5,6 +5,7 @@
 		<groupId>com.taotao</groupId>
 		<artifactId>taotao-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../taotao-manager</relativePath>
 	</parent>
 	<groupId>com.taotao</groupId>
 	<artifactId>taotao-manager-web</artifactId>
